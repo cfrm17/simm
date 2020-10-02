@@ -1,0 +1,2 @@
+# simm
+Initial Margin (IM) is the amount of collateral required to open a position with a broker or an exchange or a bank. The Standard Initial Margin Model (SIMM) is very likely to become the market standard. It is designed to provide a common methodology for calculating initial margin for uncleared OTC derivatives. Initial margin calculation is counterparty-portfolio-based. Given this standardized approach, counterparties can easily reconcile the results. 
