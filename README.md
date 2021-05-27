@@ -112,6 +112,10 @@ IM=〖IM〗_RateFX+〖IM〗_Credit+〖IM〗_Equity+〖IM〗_Commodity
 〖IM〗_p=√(∑_r▒〖IM〗_r^2 +∑_r▒∑_(s≠r)▒〖Ψ_rs 〖IM〗_r 〖IM〗_s 〗)
 
 
-You can find more details at
+References:
+
 https://finpricing.com/lib/IrCurveIntroduction.html
+
+https://bitbucket.org/cfrm17/simm/downloads/initialMargin-8.pdf
+
 
