@@ -115,7 +115,3 @@ IM=〖IM〗_RateFX+〖IM〗_Credit+〖IM〗_Equity+〖IM〗_Commodity
 References:
 
 https://finpricing.com/lib/IrCurveIntroduction.html
-
-https://bitbucket.org/cfrm17/simm/downloads/initialMargin-8.pdf
-
-
